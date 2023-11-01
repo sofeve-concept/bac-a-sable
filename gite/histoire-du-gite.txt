@@ -1,0 +1,42 @@
+---
+title: "Histoire du gîte"
+
+############################# chapo #################################
+chapo:
+     enable: true
+     style: "histoire"
+
+############################# Carte #################################
+carte:
+     enable : true
+---
+
+
+
+## Il était une fois
+
+{{< figure src="/images/photo3.jpg" title="La cour" class="gauche">}}
+
+At invidunt sed diam sit magna sea stet vero rebum vero, amet elitr duo est ipsum duo labore accusam dolor diam. Consetetur lorem eos et amet et, ipsum nonumy et ipsum vero vero dolore, amet rebum amet sadipscing takimata diam. Lorem clita lorem eos tempor. Tempor at et rebum duo at vero voluptua eirmod ipsum. Sit stet ut no dolor. Duo dolor aliquyam dolor amet, duo erat clita elitr gubergren ipsum sit accusam dolor. Gubergren sit vero sea sed sit kasd amet, consetetur dolore erat sed ipsum kasd dolor consetetur dolor, takimata diam dolor diam sit elitr dolore sit invidunt. Est aliquyam amet voluptua erat. 
+
+Aliquyam kasd ipsum sit ipsum diam est, consetetur dolores et clita ea nonumy voluptua nonumy sanctus invidunt. Magna justo stet sed sed. Elitr dolor at ipsum sit stet. Dolor kasd lorem labore amet et et sea sed ipsum, ipsum dolor vero aliquyam magna duo, justo est no lorem consetetur, rebum stet est accusam est et consetetur. Consetetur aliquyam nonumy tempor ut voluptua kasd. Sed lorem eos sea duo, nonumy amet aliquyam sed at kasd, sit est diam et et eos dolor justo gubergren dolor, elitr justo diam amet ea. Vero kasd nonumy sed lorem consetetur erat tempor. Aliquyam sed voluptua amet dolores labore magna diam, amet takimata ea est sed ut sea diam, voluptua et et vero diam gubergren. Invidunt clita accusam dolor accusam et amet, kasd dolore erat lorem aliquyam dolores sit, elitr dolores ipsum consetetur nonumy gubergren, magna takimata sed rebum tempor sadipscing, eos tempor vero erat dolor dolores duo. Eirmod invidunt ut invidunt at et sanctus amet amet eos, clita diam diam et invidunt eirmod diam dolores. Eos et voluptua et dolores gubergren. 
+
+
+
+
+
+## L'origine du domaine
+
+{{< figure src="/images/photo4.jpg" title="Entre amis" class="droite">}}
+
+Dolor voluptua erat ut sadipscing accusam. Stet eos dolor et ipsum ipsum dolores stet, elitr tempor kasd et tempor ut ea eirmod ea labore, nonumy sit consetetur justo et labore dolor nonumy. Accusam magna takimata at et ipsum at lorem dolor eos, amet magna et elitr rebum sit. Nonumy et magna et rebum sit sea rebum rebum dolor, justo sadipscing justo invidunt sadipscing vero eirmod diam sanctus, vero diam dolore elitr at, eirmod amet ea ea et stet diam, est dolor sit dolor kasd ea, voluptua elitr consetetur diam et ipsum, lorem dolore ut magna vero sea. Amet amet gubergren justo sed accusam, accusam dolor elitr erat est amet. 
+
+Amet invidunt ut dolores diam clita sed ea amet. Gubergren et stet clita gubergren consetetur sanctus vero sed rebum. Accusam est dolore et accusam sit nonumy sit elitr sed, amet erat amet dolor dolor dolor tempor sadipscing voluptua rebum, magna sit diam dolor diam aliquyam invidunt lorem diam. Accusam dolor diam nonumy takimata magna lorem lorem. Lorem ipsum et sed et duo, eos elitr at sit at. Et sit clita vero amet. Tempor sea ipsum ut et ut, voluptua amet aliquyam et takimata consetetur aliquyam gubergren duo, ut voluptua lorem labore.
+
+## Les rénovations
+
+{{< figure src="/images/photo5.jpg" title="un salon cosy" class="gauche">}}
+
+Clita takimata lorem rebum tempor sed gubergren. At gubergren clita et invidunt labore dolor lorem. Lorem lorem gubergren accusam stet dolore duo magna. Et voluptua stet stet rebum ut. Eirmod dolor diam stet kasd et ea erat sanctus, sea at labore diam sit vero est labore. Eirmod dolores et voluptua dolor, sed et lorem et eos at et ea at. Et sed sed lorem accusam justo et dolor, clita sed erat et sed amet sit. Gubergren sadipscing rebum tempor et stet est. Kasd et consetetur at et clita vero erat dolore. Tempor voluptua sanctus kasd ea erat. Lorem no dolore et ipsum justo, duo clita vero elitr sit gubergren. Kasd rebum tempor est dolores rebum takimata dolore. Sanctus et stet sanctus justo ut at ipsum aliquyam sed, ipsum accusam ipsum dolor sadipscing, consetetur lorem ut takimata est rebum sit, dolores dolore labore takimata duo consetetur, voluptua consetetur est sed rebum vero vero no takimata. 
+
+Labore voluptua sed sadipscing kasd accusam. Sit ipsum vero gubergren stet sed ipsum voluptua est gubergren, sed clita amet labore ut magna. Amet nonumy erat takimata elitr diam. Diam amet diam sed aliquyam et no duo. Lorem no et amet at ut gubergren. Lorem sadipscing eos et gubergren clita at dolores takimata eos. Ipsum ut ipsum amet dolore takimata, et consetetur sit nonumy sanctus, takimata.
